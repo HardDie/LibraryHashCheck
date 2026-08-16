@@ -2,6 +2,11 @@
 
 If you have a large library of files (music, images, videos, etc.), this utility will help you easily calculate or check previously calculated hash sums of the entire library recursively with a single command.
 
+## Installation
+```
+go install github.com/HardDie/ghashdeep@latest
+```
+
 ---
 
 ### How to calculate the hash:
